@@ -1,0 +1,12 @@
+{
+  "name": "a-view-keyboard",
+  "displayName": "a-view-keyboard",
+  "expo": {
+    "name": "a-view-keyboard",
+    "slug": "a-view-keyboard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
